@@ -3,5 +3,8 @@
     "adam":[],
     "clients":[],
     "hotel":[],
-    "dogs":[]
+    "dogs":[],
+    "tasks":[],
+    "signInn":[],
+    "signUpp":[]
 }
