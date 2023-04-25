@@ -7,6 +7,6 @@
     "tasks":[],
     "signInn":[],
     "signUpp":[],
-    "masaiCar":[],
-    "wishlist":[]
+    "cars":[],
+    "wishlisted_cars":[]
 }
