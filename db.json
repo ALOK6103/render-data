@@ -8,5 +8,6 @@
     "signInn":[],
     "signUpp":[],
     "cars":[],
-    "wishlisted_cars":[]
+    "wishlisted_cars":[],
+    "obj":{}
 }
