@@ -9,5 +9,6 @@
     "signUpp":[],
     "cars":[],
     "wishlisted_cars":[],
-    "obj":{}
+    "obj":{},
+    "products":[]
 }
