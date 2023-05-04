@@ -10,5 +10,6 @@
     "cars":[],
     "wishlisted_cars":[],
     "obj":{},
-    "products":[]
+    "products":[],
+    "users":[]
 }
